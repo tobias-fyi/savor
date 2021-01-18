@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "/Users/Tobias/workshop/savor"
+		}
+	],
+	"settings": {
+		"window.zoomLevel": -2,
+		"python.linting.pylintEnabled": true,
+		"python.linting.pylintPath": "/Users/Tobias/.vega/savor-Gsn5ZfaA/bin/pylint",
+		"python.linting.pylintArgs": [
+			"--load-plugins",
+			"pylint_django",
+		],
+		"python.formatting.provider": "black",
+		"python.formatting.blackPath": "/Users/Tobias/.vega/savor-Gsn5ZfaA/bin/black",
+		"python.formatting.blackArgs": [
+			"--line-length=100"
+		],
+	}
+}
