@@ -1,3 +1,7 @@
+# Make dirs / files private by suffixing with _
+*_
+*_/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
