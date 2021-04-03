@@ -9,8 +9,11 @@ pylint = "*"
 jupyterlab = "*"
 
 [packages]
+pytest = "*"
 pandas = "*"
 psycopg2-binary = "*"
+airtable-python-wrapper = "*"
+python-dotenv = "*"
 
 [requires]
 python_version = "3.8"
