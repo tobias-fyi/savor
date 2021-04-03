@@ -1,0 +1,5 @@
+pytest==6.2.2
+pandas==1.2.3
+psycopg2-binary==2.8.6
+airtable-python-wrapper==0.15.2
+python-dotenv==0.17.0
